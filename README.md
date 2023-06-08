@@ -4,6 +4,7 @@ Bark-API using FastAPI to connect to https://github.com/suno-ai/bark
 JUST FOR TESTING PURPOSE, DO NOT USE IT FOR ANY REAL PROFESSIONAL DEVELOPMENT WORK
   
 How to use:
+
   0. clone this repo
   1. clone the repo https://github.com/suno-ai/bark into the base directory
   2. put the file main.py into the **bark** folder
